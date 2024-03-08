@@ -1,0 +1,39 @@
+[
+    {
+        "Lider": {
+
+        },
+        "Unidad": [
+            {  
+                "Id": 12391293,
+                "Nombre": "El Pez",
+                "Tipo": "Distancia",
+                "Poder": 10,
+                "Descripcion": "Muere por la boca"
+            },
+            {  
+                "Nombre": "Tanque",
+                "Tipo": "Asedio",
+                "Poder": 15,
+                "Descripcion": "Se hunde en el fango"
+            },
+            {  
+                "Nombre": "El Pez",
+                "Tipo": "Distancia",
+                "Poder": 10,
+                "Descripcion": "Muere por la boca"
+            },
+            {  
+                "Nombre": "El Pez",
+                "Tipo": "Distancia",
+                "Poder": 10,
+                "Descripcion": "Muere por la boca"
+            }
+        ],
+        "Clima": [],
+        "Aumento" : []
+    },
+    {
+
+    }
+]

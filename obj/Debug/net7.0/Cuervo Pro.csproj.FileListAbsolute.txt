@@ -1,0 +1,14 @@
+E:\Cuervo Pro\obj\Debug\net7.0\Cuervo Pro.GeneratedMSBuildEditorConfig.editorconfig
+E:\Cuervo Pro\obj\Debug\net7.0\Cuervo Pro.AssemblyInfoInputs.cache
+E:\Cuervo Pro\obj\Debug\net7.0\Cuervo Pro.AssemblyInfo.cs
+E:\Cuervo Pro\obj\Debug\net7.0\Cuervo Pro.csproj.CoreCompileInputs.cache
+E:\Cuervo Pro\bin\Debug\net7.0\Cuervo Pro.exe
+E:\Cuervo Pro\bin\Debug\net7.0\Cuervo Pro.deps.json
+E:\Cuervo Pro\bin\Debug\net7.0\Cuervo Pro.runtimeconfig.json
+E:\Cuervo Pro\bin\Debug\net7.0\Cuervo Pro.dll
+E:\Cuervo Pro\bin\Debug\net7.0\Cuervo Pro.pdb
+E:\Cuervo Pro\obj\Debug\net7.0\Cuervo Pro.dll
+E:\Cuervo Pro\obj\Debug\net7.0\refint\Cuervo Pro.dll
+E:\Cuervo Pro\obj\Debug\net7.0\Cuervo Pro.pdb
+E:\Cuervo Pro\obj\Debug\net7.0\Cuervo Pro.genruntimeconfig.cache
+E:\Cuervo Pro\obj\Debug\net7.0\ref\Cuervo Pro.dll
